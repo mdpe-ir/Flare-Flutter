@@ -13,12 +13,6 @@ dependency_overrides:
 
 
 
-## Null Safety
-Preview of null safety is now available on pub.dev with version 3.0.0. Include it in your pubspec via:
-```
-  dependencies:
-    flare_flutter: ^3.0.0-nullsafety.0
-```
 
 ## Packages
 There used to be two Dart packages provided in this repository. [flare_dart](https://pub.dev/packages/flare_dart) is no longer maintained as a separate package, it has now been rolled into [flare_flutter](https://pub.dev/packages/flare_flutter). Please use only [flare_flutter](https://pub.dev/packages/flare_flutter) going forward.
